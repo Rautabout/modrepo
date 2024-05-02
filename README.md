@@ -9,3 +9,9 @@ https://fabricmc.net/
 ## https://modrinth.com/mod/cyansethome
 ## https://modrinth.com/mod/followers-teleport-too
 ## https://modrinth.com/mod/slime
+## https://modrinth.com/mod/yungs-better-nether-fortresses
+## https://modrinth.com/datapack/stellarity
+## https://modrinth.com/mod/yungs-bridges
+## https://modrinth.com/mod/ct-overhaul-village
+## https://modrinth.com/datapack/dungeons-and-taverns
+## https://modrinth.com/mod/towns-and-towers
